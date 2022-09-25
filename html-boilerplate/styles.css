@@ -28,7 +28,7 @@ h3 {
     column-span: all;
     margin-top: 5px;
     margin-bottom: 3px;
-    padding: 5px auto;
+    line-height: 18px;
 }
 
 .bold {
