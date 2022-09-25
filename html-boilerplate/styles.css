@@ -3,16 +3,16 @@ body {
 }
 
 main {
-    font-size: 10px
+    font-size: 1em
 }
 
 .personal-info {
     text-align: center;
-    font-size: 10px;
+    font-size: 1em;
 }
 
 h2 {
-    font-size: 14px;
+    font-size: 1.5em;
     letter-spacing: 10px;
     text-transform: uppercase;
     text-align: center;
