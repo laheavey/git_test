@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    font-size: 16px
+}
+
+.personal-info {
+    text-align: center;
+}
+
+.name {
+    letter-spacing: 5px;
+}
+
+h2 {
+    border-bottom: 1px solid #888989;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.right {
+    text-align: right;
+}
+
+.italic {
+    font-style: italic;
+}
+
