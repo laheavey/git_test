@@ -15,16 +15,18 @@ h2 {
     letter-spacing: 5px;
     text-transform: uppercase;
     text-align: center;
-
+    word-spacing: 5px;
 }
 
 h3 {
+    letter-spacing: 5px;
     border-bottom: 1px solid #888989;
-    text-transform: uppercase
+    text-transform: uppercase;
+    column-span: all;
 }
 
 .bold {
-    font-weight: 800;
+    font-weight: bold;
 }
 
 .right {
@@ -35,3 +37,7 @@ h3 {
     font-style: italic;
 }
 
+ul {
+    column-count: 2;
+    column-gap: 40px;
+}
