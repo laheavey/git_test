@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 main {
@@ -23,7 +23,7 @@ h2 {
 }
 
 .right {
-    text-align: right;
+    float: right;
 }
 
 .italic {
