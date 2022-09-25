@@ -1,6 +1,6 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 15px;
+    padding: 20px;
 }
 
 main {
@@ -14,22 +14,22 @@ main {
 
 h2 {
     font-size: 18px;
-    letter-spacing: 10px;
+    letter-spacing: 7px;
     text-transform: uppercase;
     text-align: center;
     margin-bottom: -15px;
 }
 
 h3 {
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     border-bottom: 1px solid #888989;
     border-top: 1px solid #888989;
     text-transform: uppercase;
     column-span: all;
     margin-top: 5px;
     margin-bottom: 3px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 .bold {
