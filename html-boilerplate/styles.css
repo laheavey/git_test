@@ -13,7 +13,7 @@ main {
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 7px;
     text-transform: uppercase;
     text-align: center;
@@ -26,8 +26,8 @@ h3 {
     border-top: 1px solid #888989;
     text-transform: uppercase;
     column-span: all;
-    margin-top: 5px;
-    margin-bottom: 3px;
+    margin-top: 10px;
+    margin-bottom: 5px;
     padding-top: 3px;
     padding-bottom: 3px;
 }
