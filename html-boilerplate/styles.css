@@ -15,7 +15,8 @@ h2 {
     letter-spacing: 5px;
     text-transform: uppercase;
     text-align: center;
-    word-spacing: 5px;
+    word-spacing: 10px;
+    margin-bottom: -20px;
 }
 
 h3 {
@@ -40,4 +41,5 @@ h3 {
 ul {
     column-count: 2;
     column-gap: 40px;
+    padding-top: 10px;
 }
