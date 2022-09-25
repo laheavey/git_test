@@ -3,16 +3,19 @@ body {
 }
 
 main {
-    font-size: 12px
+    font-size: 14px
 }
 
 .personal-info {
     text-align: center;
+    font-size: 14px;
 }
 
-.name {
+h2 {
     letter-spacing: 5px;
     text-transform: uppercase;
+    text-align: center;
+
 }
 
 h3 {
