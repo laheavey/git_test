@@ -4,16 +4,16 @@ body {
 }
 
 main {
-    font-size: 1em
+    font-size: 14px
 }
 
 .personal-info {
     text-align: center;
-    font-size: 1em;
+    font-size: 14px;
 }
 
 h2 {
-    font-size: 1.4em;
+    font-size: 18px;
     letter-spacing: 10px;
     text-transform: uppercase;
     text-align: center;
